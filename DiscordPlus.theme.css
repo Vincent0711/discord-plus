@@ -11,14 +11,14 @@
  * @updateUrl https://plusinsta.github.io/discord-plus/DiscordPlus.theme.css
  * @invite 2Jwh2nS
 */
-@import url(https://cdn.discordapp.com/attachments/1096805764506587197/1128313859464253541/X9HYbNsDGb82SF8yYHph0Jg77a05K3vaRIPuMaxjnJM.jpg);
+@import url(https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css);
 
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: urlhttps://cdn.discordapp.com/attachments/1096805764506587197/1128313859464253541/X9HYbNsDGb82SF8yYHph0Jg77a05K3vaRIPuMaxjnJM.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
